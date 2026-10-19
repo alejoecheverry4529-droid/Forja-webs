@@ -1,0 +1,6 @@
+{
+  "name": "FORJA WEBS - Páginas Web en 24 Horas & Plataforma de Reservas",
+  "description": "Sitio web oficial de FORJA WEBS con catálogo de servicios web, cotizador y sistema de reservas en 24 horas, panel administrativo en tiempo real, analíticas de ventas, CRM de clientes, roles y cifrado E2EE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
